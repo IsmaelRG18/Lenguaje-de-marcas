@@ -103,7 +103,7 @@ h1 {
 
 .targeta img {
     width: 100%;
-    height: 250px;/*amb 250 es veuen molt petites hauria de ser 900 en el meu cas per que surti completa*/
+    height: 250px;
     object-fit: cover;
     border-radius: 8px 8px 0 0;
 }
