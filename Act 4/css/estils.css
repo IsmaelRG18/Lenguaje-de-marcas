@@ -103,7 +103,7 @@ h1 {
 
 .targeta img {
     width: 100%;
-    height: 900px;/*no se per que pero les imatges meves necesitan molt si no es tallen, yo posaria 250 pero es que no es veu i no se*/
+    height: 250px;/*amb 250 es veuen molt petites hauria de ser 900 en el meu cas per que surti completa*/
     object-fit: cover;
     border-radius: 8px 8px 0 0;
 }
